@@ -1,0 +1,23 @@
+{
+  "name": "ng-k8s-env-config",
+  "version": "1.0.0",
+  "description": "Support for runtime loadable configurations in kubernetes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/protacon/ng-k8s-env-config.git"
+  },
+  "keywords": [
+    "k8s",
+    "config"
+  ],
+  "author": "Protacon Solutions Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/protacon/ng-k8s-env-config/issues"
+  },
+  "homepage": "https://github.com/protacon/ng-k8s-env-config#readme"
+}
